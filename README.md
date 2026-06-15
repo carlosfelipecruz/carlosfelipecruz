@@ -14,9 +14,8 @@ I build secure, maintainable and scalable cross-platform mobile and web applicat
 
 ### 💼 Selected work
 - **Donor Management System (DMS)** — full-stack operations platform for a fertility/sperm bank covering the donor & intended-parent lifecycle (Next.js · React 19 · Supabase · TypeScript · Turborepo). Built dashboard modules for the donor pipeline, a dynamic form builder, inventory tracking (Freezerworks integration), appointment scheduling, payments with tokenization & PII encryption, real-time chat (Twilio), and role-based access control across a 4-app monorepo. 2k+ monthly users. [Live donor site ↗](https://myspermbankdonor.com)
-- **Prelude Connect** — patient-facing fertility app (React Native · iOS/Android/Web). Built authentication, payments, appointments, and in-app messaging. [App Store ↗](https://apps.apple.com/us/app/prelude-connect/id1555724713)
-- **AI Deal-Tracking Agent** — automated pipeline using Microsoft Graph, Supabase, and the Claude API for structured data extraction (Python). [Repo ↗](ADD_REPO_LINK)
-- See pinned repositories below for more.
+- **Prelude Connect** — patient-facing fertility app (React Native · iOS/Android/Web). Built authentication, payments, appointments, and in-app messaging. [App Store ↗](https://apps.apple.com/us/app/prelude-connect/id1555724713) · [Google Play ↗](https://play.google.com/store/apps/details?id=com.inceptionllc.connect)
+- **AI Deal-Tracking Agent** — automated pipeline using Microsoft Graph, Supabase, and the Claude API for structured data extraction (Python).
 
 ### 📫 Connect
 - LinkedIn: [carlos-felipe-cruz-pachon](https://www.linkedin.com/in/carlos-felipe-cruz-pachon-00b424274)
